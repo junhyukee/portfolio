@@ -1385,6 +1385,11 @@ body.is-preload #header .content .inner {
 #main article .close:active:before {
   background-color: rgba(255, 255, 255, 0.175);
 }
+#main article #about-picture {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
 @media screen and (max-width: 736px) {
   #main article {
     padding: 3.5rem 2rem 0.5rem 2rem;
