@@ -652,6 +652,11 @@ input[type=radio] + label:before {
   border-radius: 4px;
   display: block;
 }
+.image2:hover {
+  opacity: 0.7;
+  transition: opacity 0.5s;
+  cursor: pointer;
+}
 .image2.left, .image2.right {
   max-width: 40%;
 }

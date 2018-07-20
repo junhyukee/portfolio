@@ -109,6 +109,12 @@
 			border-radius: _size(border-radius);
 			display: block;
 		}
+		
+		&:hover {
+			opacity: 0.7;
+			transition: opacity 0.5s;
+			cursor: pointer;
+		}
 
 		&.left,
 		&.right {
