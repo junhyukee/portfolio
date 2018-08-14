@@ -399,7 +399,7 @@
 					});
 				
 	var typed = new Typed(".typed", {
-		strings: ["Software Engineer.", "Biomedical Engineer.", "Student."],
+		strings: ["Developer.", "Engineer.", "Student."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
